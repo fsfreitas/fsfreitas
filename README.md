@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-- 💡 Atualmente estudando Javascript 
+- 💡 Atualmente estudando Javascript e React
 - 😄 Pronomes: ele/dele
 
 <div align="center">
